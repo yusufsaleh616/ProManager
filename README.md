@@ -128,7 +128,7 @@ mysql -u root grad_db < 127_0_0_1.sql
 
 ## Team
 
-Developed as a graduation project at Al al-Bayt University, Faculty of Information Technology (Computer Information Systems), under the supervision of Dr. Baraah Ahmad.
+Developed as a graduation project at Al al-Bayt University, Faculty of Information Technology (Computer Information Systems),
 
 ## License
 
